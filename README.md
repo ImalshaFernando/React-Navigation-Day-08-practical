@@ -1,0 +1,1 @@
+This repository demonstrates a comprehensive implementation of React Navigation for React Native applications. It provides examples of essential navigation patterns, including stack, tab, and drawer navigation, to create a seamless and user-friendly app experience.
